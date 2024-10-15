@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.div-init {
+    display: flex;
+    gap: 1%;
+    padding: 1%;
+}
+
+.init-1{
+    background-color: orange;
+    width: 50%;
+    height: 200px;
+}
+.init-2{
+    background-color: orange;
+    width: 50%;
+    height: 200px;
+}
+.style-center{
+    display: flex;
+    gap: 1%;
+    padding: 1%;
+}
+.center{
+    background-color: greenyellow;
+    width: 100%;
+    height: 400px;
+}
+.quadrado{
+    display: flex;
+    gap: 1%;
+    padding: 1%;
+}
+.quadrado-1{
+    background-color: blue;
+    width: 50%;
+    height: 300px;
+}
+.quadrado-2{
+    background-color: blue;
+    width: 50%;
+    height: 300px;
+}
+.quadrado-3{
+    background-color: blue;
+    width: 50%;
+    height: 300px;
+}
+
+
+
+.quadrado-menor{
+    display: flex;
+    gap: 1%;
+    padding: 1%;
+}
+.menor-1{
+    background-color: grey;     
+    width: 50%;
+    height: 300px;
+}
+.menor-2{
+    background-color: grey;
+    width: 50%;
+    height: 300px;
+}
+
+.menor-3{
+    background-color: grey;
+    width: 50%;
+    height: 300px;
+}
+ .menor-4{
+    background-color: grey;
+    width: 50%;
+    height: 300px;
+}
